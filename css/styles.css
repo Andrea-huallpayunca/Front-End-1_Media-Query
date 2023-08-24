@@ -50,7 +50,7 @@ main{
 .heart{
     align-self: self-start;
     color: red;
-    font-size: x-large;
+    font-size:small;
 
 }
 .fondo-batman{
@@ -71,7 +71,9 @@ main{
     display: flex;
     flex-direction: column;
     gap: 10px;
-    font-size: 0.4em
+    font-size: 0.4em;
+    margin-top: 20px;
+
 }
 .div-foto{
     height: 5rem;
