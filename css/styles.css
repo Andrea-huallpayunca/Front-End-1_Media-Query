@@ -147,6 +147,9 @@ footer{
         justify-content: space-between;
         align-items: center;
     }
+    footer p{
+        flex-grow: 1;
+    }
     footer h3{
         font-size: 1rem;
     }
